@@ -52,4 +52,45 @@ function helloWorld() {
 
 I SEE
 
-## Test2.1
+# Test2.1
+
+# Heading Variations
+
+# Title with Symbols
+# **Bold Heading**
+## *Italic Heading*
+### ~~Strikethrough Heading~~
+
+---
+
+# Nested Lists
+
+- Item 1
+  1. Sub-item 1
+  2. Sub-item 2
+- Item 2
+  - Sub-item 1
+    - Sub-sub-item 1
+
+---
+
+# Alternative Links and Images
+
+[Link with Title](https://example.com "Example Title")  
+![Image with Title](https://via.placeholder.com/150 "Placeholder Image")
+
+---
+
+# Code with Syntax Highlighting
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
+```
